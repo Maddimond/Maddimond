@@ -15,6 +15,8 @@
 
  - Cпециалист в области анализа данных и науки о данных 
  - Прошел курс от Яндекс.Практикума "Специалист по Data Science" 
+ 
+Pet-проекты [Яндекс.Практикума](https://github.com/Maddimond/Yandex_Practicum_Progects)
 
 ---
 
@@ -37,7 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Maddimond/ML_icons/blob/main/hadoop.svg" title="Hadoop" alt="Hadoop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Maddimond/ML_icons/blob/main/spark.svg" title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
-  
+  </div>
   ---
   ### :fire:  Stats :
   
