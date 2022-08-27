@@ -11,5 +11,6 @@
 </div>
 
 
----
 ### :man_technologist: Несколько слов о себе:
+
+ - Cпециалист <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> в области анализа данных и науки о данных 
