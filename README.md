@@ -1,4 +1,11 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/DataCamp-data-science-datacamp-7c8QeB0VMddFOuu4iR" width="100"/>
+</div>
+
 ### Hi there 👋
+
+
+
 
 <!--
 **Maddimond/Maddimond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
