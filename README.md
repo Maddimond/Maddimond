@@ -40,7 +40,9 @@
   <img src="https://github.com/Maddimond/ML_icons/blob/main/hadoop.svg" title="Hadoop" alt="Hadoop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Maddimond/ML_icons/blob/main/spark.svg" title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
   </div>
+  
   ---
+  
   ### :fire:  Stats :
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Maddimond&theme=dracula)](https://git.io/streak-stats)
