@@ -16,7 +16,7 @@
  - Cпециалист в области анализа данных и науки о данных 
  - Прошел курс от Яндекс.Практикума "Специалист по Data Science" 
  
-Pet-проекты [Яндекс.Практикума](https://github.com/Maddimond/Yandex_Practicum_Progects)
+Мои Pet-проекты [Яндекс.Практикума](https://github.com/Maddimond/Yandex_Practicum_Progects)
 
 ---
 
