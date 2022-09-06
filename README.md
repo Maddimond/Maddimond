@@ -43,6 +43,4 @@
   
   ---
   
-  ### :fire:  Stats :
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Maddimond&theme=dracula)](https://git.io/streak-stats)
