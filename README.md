@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="600"/>
+  <img src="https://github.com/Maddimond/ML_icons/blob/main/1_zv94BqcK-uT2sF-Ib-W7Qw.jpeg" width="600"/>
   
   <h1>
   Всем привет, меня зовут Дима!
